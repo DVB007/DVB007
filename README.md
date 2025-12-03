@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am studend at RUPP and ISTAD.
+I am study major IT focus on Web development.
+I want to freedom, when i am 45 years old in the future. 
 
 <!--
 **DVB007/DVB007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
