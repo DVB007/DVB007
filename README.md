@@ -4,7 +4,9 @@
 ---
 
 <h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"><a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a> <a href="https://java.com" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a> <a href="https://js.org" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a> <a href="https://reactjs.org" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a> <a href="https://tailwindcss.com" target="_blank"><img src="https://vectorlogo.zone" width="40" height="40"/></a> <a href="https://w3schools.com" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a> <a href="https://cprogramming.com" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a> <a href="https://isocpp.org" target="_blank"><img src="https://githubusercontent.com" width="40" height="40"/></a></p>
+<p align="left">
+<img src="https://skillicons.dev" />
+</p>
 
 ---
 
